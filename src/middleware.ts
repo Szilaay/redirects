@@ -9,7 +9,7 @@ interface RedirectProps {
 const redirects: RedirectProps[] = [
   {
     from: "tacsipulcsi.hu",
-    to: "https://www.szilaay.eu",
+    to: "https://www.garmondkennel.hu/",
   },
 ];
 
