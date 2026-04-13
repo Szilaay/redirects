@@ -11,6 +11,10 @@ const redirects: RedirectProps[] = [
     from: "tacsipulcsi.hu",
     to: "https://www.garmondkennel.hu/",
   },
+  {
+    from: "neugarmond.hu",
+    to: "https://www.garmondkennel.hu/",
+  },
 ];
 
 export function middleware(request: NextRequest) {
